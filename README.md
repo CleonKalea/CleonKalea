@@ -1,4 +1,18 @@
-# Profile
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cleonkalea&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img  height=172em align="center" src="https://github-readme-stats-salesp07.vercel.app/api?username=cleonkalea&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img  height=172em align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=cleonkalea&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cleonkalea&theme=tokyonight&column=6&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
 
 <table>
   <tr>
@@ -35,7 +49,7 @@
 * **Domain:** Natural Language Processing (NLP) / Deep Learning
 * **Impact & Methodology:** Engineered an automated pipeline to scrape 6,208 criminal indictments from the Indonesian Court System (SIPP-PN). Benchmarked LSTM, BiLSTM, and IndoBERT architectures.
 * **Key Results:** The **BiLSTM configuration outperformed other models**, achieving a **Mean Absolute Error (MAE) of 5.32**. Integrated model interpretability using **Integrated Gradients** to extract feature attribution maps, deployed via a **React + Flask** web app.
-* *Tech Stack:* `Python`, `TensorFlow`, `IndoBERT`, `Selenium`, `Flask`, `React.js`
+* *Tech Stack:* `Python`, `TensorFlow`, `IndoBERT`, `Selenium`, `Flask`, `React.js + Vite`
 
 #### 💼 SECURA - Integrated Financial & Admin Ecosystem
 * **Domain:** Enterprise Automation / Full-Stack System
@@ -56,15 +70,6 @@
 * **Bangkit Distinction Graduate** - Placed in the top-tier graduates of the Google-led tech academy.
 * **English Proficiency Test (EPT) Score: 607/677** - Fully capable of international development work and global team communication.
 * **National Scale Event Leadership** - Head of student-led initiatives managing 76 committee members and delivering experiences for 800+ active participants.
-
----
-
-### 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cleonkalea&show_icons=true&theme=tokyonight&hide_border=true" alt="Cleon's GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleonkalea&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180">
-</p>
 
 ---
 
