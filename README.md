@@ -75,4 +75,4 @@
 
 ### 📫 Let's Connect!
 * 💼 **LinkedIn:** [cleonkalea](https://www.linkedin.com/in/cleonkalea/) 
-* 💼 **Portfolio:** [https://bit.ly/portofolio_cleonkalea](bit.ly/portofolio_cleonkalea) 
+* 💼 **Portfolio:** [bit.ly/portofolio_cleonkalea](https://bit.ly/portofolio_cleonkalea)
